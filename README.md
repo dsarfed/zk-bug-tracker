@@ -2026,7 +2026,7 @@ See the references below for more details on toxic waste and how trusted setups 
 **References**
 
 1. [Zcash Parameter Generation](https://z.cash/technology/paramgen/)
-2. [How do trusted setups work? - Vitalik](https://vitalik.ca/general/2022/03/14/trustedsetup.html#:~:text=Many%20cryptographic%20protocols%2C%20especially%20in,some%20cryptographic%20protocol%20is%20run.)
+2. [How do trusted setups work? - Vitalik](https://vitalik.eth.limo/general/2022/03/14/trustedsetup.html#:~:text=Many%20cryptographic%20protocols%2C%20especially%20in,some%20cryptographic%20protocol%20is%20run.)
 3. [Setup Ceremonies](https://zkproof.org/2021/06/30/setup-ceremonies/)
 4. [Zcash Soundness Bug](https://electriccoin.co/blog/zcash-counterfeiting-vulnerability-successfully-remediated/)
 
